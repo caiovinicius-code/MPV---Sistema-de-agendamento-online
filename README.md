@@ -4,7 +4,7 @@
 O projeto consiste em uma plataforma web desenvolvida para otimizar o processo de agendamento de serviços. O sistema visa substituir controles manuais por uma interface digital onde clientes podem visualizar horários disponíveis, realizar agendamentos via identificação por WhatsApp e gestores podem administrar o fluxo de faturamento e profissionais.
 
 ## 2. Equipe Responsável
-*   **Caio Vinícius** - Desenvolvedor Full Stack & Arquiteto de Sistemas.
+*   **Caio Vinícius Lima Soares** 
 
 ## 3. Roadmap de Desenvolvimento
 - [x] Definição da arquitetura e estrutura de pastas.
